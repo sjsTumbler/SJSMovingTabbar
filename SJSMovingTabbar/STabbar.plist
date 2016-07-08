@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>controller</key>
+			<string>ViewController0</string>
+			<key>image_sel</key>
+			<string>discover__selected.png</string>
+			<key>title</key>
+			<string>消息</string>
+			<key>image</key>
+			<string>discover__selected.png</string>
+		</dict>
+		<dict>
+			<key>controller</key>
+			<string>ViewController1</string>
+			<key>image_sel</key>
+			<string>cooperation_selected.png</string>
+			<key>title</key>
+			<string>通讯录</string>
+			<key>image</key>
+			<string>cooperation_selected.png</string>
+		</dict>
+		<dict>
+			<key>controller</key>
+			<string>ViewController2</string>
+			<key>image_sel</key>
+			<string>cooperation_selected.png</string>
+			<key>title</key>
+			<string>应用</string>
+			<key>image</key>
+			<string>cooperation_selected.png</string>
+		</dict>
+		<dict>
+			<key>controller</key>
+			<string>ViewController3</string>
+			<key>image_sel</key>
+			<string>message_selected.png</string>
+			<key>title</key>
+			<string>设置</string>
+			<key>image</key>
+			<string>message_selected.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>
